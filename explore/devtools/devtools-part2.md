@@ -1,0 +1,2 @@
+1. The bug was that num1 and num2 are input as strings, so that result is just a concatenation of the two, rather than their sum.
+2. To fix the bug, I would use the parseInt() function so that num1 and num2 are read as integers rather than strings. 
