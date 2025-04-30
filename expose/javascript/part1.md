@@ -4,4 +4,4 @@
 4. Line 9 will print "values added: 20"
 5. The function call will return an error because result is not defined outside of the if block.
 6. Line 9 returns an error because we declare result as a const and immediately try to assign it to something else. 
-7. It will return an error because result is not defined outside of the if statement. 
+7. Similarly to the last question, line 9 returns an error because we declare result as a const and immediately try to assign it to something else. Line 13 will return an error because result is not defined outside of the if statement. 
